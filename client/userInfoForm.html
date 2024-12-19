@@ -1,0 +1,11 @@
+<template name="userInfoForm">
+  {{#autoForm schema=userInfoSchema id="userInfoForm" type="method" meteormethod="submitForm"}}
+    <fieldset>
+      <legend>Contact Us</legend>
+      {{> afQuickField name="name"}}
+      {{> afQuickField name="email"}}
+      {{> afQuickField name="message"}}
+    </fieldset>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  {{/autoForm}}
+</template>

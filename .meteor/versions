@@ -16,6 +16,7 @@ caching-compiler@1.2.2
 caching-html-compiler@1.2.2
 callback-hook@1.5.1
 check@1.4.1
+communitypackages:autoform-bootstrap5@1.0.0
 ddp@1.4.1
 ddp-client@2.6.2
 ddp-common@1.4.1

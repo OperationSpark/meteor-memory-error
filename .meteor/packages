@@ -26,3 +26,4 @@ blaze-hot               # Update files using Blaze's API with HMR
 aldeed:autoform
 aldeed:collection2
 aldeed:simple-schema
+communitypackages:autoform-bootstrap5
