@@ -1,4 +1,4 @@
-import SimpleSchema from 'simpl-schema';
+import SimpleSchema from 'meteor/aldeed:simple-schema';
 SimpleSchema.extendOptions(['autoform']);
 
 export const userInfoSchema = new SimpleSchema({
